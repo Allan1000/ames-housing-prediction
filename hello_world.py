@@ -2,10 +2,11 @@
 """
 
 from flask import Flask
+from flask import render_template
 
 app=Flask(__name__)
 
-@app.route('/users/Allan Blanchard')
+@app.route('/')
 def hello_world(username=None):
     
     return("Hello {}!".format(username))
