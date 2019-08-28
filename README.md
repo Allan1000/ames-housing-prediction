@@ -2,6 +2,7 @@
  Goal: Creating and deploying house sale prediction model as an api using flask
  
  References: 
+ 
       1. Udemy Course: "Deployment of Machine Learning Models" 
          (https://www.udemy.com/deployment-of-machine-learning-models/)
       2. Kaggle Competition: "House Prices: Advanced Regression Techniques" 
